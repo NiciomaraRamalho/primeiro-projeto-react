@@ -21,7 +21,7 @@ export const ToDoList = styled.div`
      h3{
         text-align: center;
         color: black;
-        background: #e8ff8b;
+        background: rgb(209, 211, 212, 0.8);
      }
 
 `
